@@ -1,0 +1,11 @@
+C:\csharp\ar\finalizers\bin\Debug\netcoreapp3.0\finalizers.exe
+C:\csharp\ar\finalizers\bin\Debug\netcoreapp3.0\finalizers.deps.json
+C:\csharp\ar\finalizers\bin\Debug\netcoreapp3.0\finalizers.runtimeconfig.json
+C:\csharp\ar\finalizers\bin\Debug\netcoreapp3.0\finalizers.runtimeconfig.dev.json
+C:\csharp\ar\finalizers\bin\Debug\netcoreapp3.0\finalizers.dll
+C:\csharp\ar\finalizers\bin\Debug\netcoreapp3.0\finalizers.pdb
+C:\csharp\ar\finalizers\obj\Debug\netcoreapp3.0\finalizers.csprojAssemblyReference.cache
+C:\csharp\ar\finalizers\obj\Debug\netcoreapp3.0\finalizers.AssemblyInfoInputs.cache
+C:\csharp\ar\finalizers\obj\Debug\netcoreapp3.0\finalizers.AssemblyInfo.cs
+C:\csharp\ar\finalizers\obj\Debug\netcoreapp3.0\finalizers.dll
+C:\csharp\ar\finalizers\obj\Debug\netcoreapp3.0\finalizers.pdb
